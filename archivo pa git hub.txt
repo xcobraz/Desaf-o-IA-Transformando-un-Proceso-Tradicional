@@ -1,0 +1,51 @@
+## Introducción y descripción del problema 
+
+se eligió como caso de uso: análisis de salud y comportamiento en bovinos
+muy común en la industria agropecuaria
+
+## Descripción del proceso tradicional
+**situación actual**
+en la actualidad sigue siendo difícil identificar a tiempo si a una 
+vaca o toro tiene algún problema de salud ya que las señales a veces son
+confusas y no siempre se puede inspeccionar a los animales aun mas cuando
+la cifra de estos misma llega a ciento o incluso miles.
+
+**problemas y limitaciones del método tradicional**
+-difícil y lenta identificación de un problema en los animales
+-dificultad para poder evaluar a todos los animales 1 por 1
+-alto costo en medicamentos generados por progreso de enfermedades
+-perdida de alimento en animales enfermos
+
+## Propuesta de solución con IA
+** objetivo de la solución**
+-recopilar datos de los bovinos y en base a ellos poder analizar e interpretar los datos de manera rápida y eficaz para la pronta toma de medidas en base a la posible aparición de síntomas de enfermedades o problemas con el animal
+
+**descripción de la solución con IA**
+-**Tecnología empleada** Reconocimiento avanzado de patrones
+-**integración en el flujo**
+	-El sistema recibe una entrada constante de datos por cada animal
+	-la IA interpreta la situación del animal y avisa de anormalidades
+	-en caso de anormalidades con el animal interviene un humano
+
+**Beneficios esperados**
+-Mayor velocidad de respuesta en animales enfermos
+-Reducción de costos operativos
+-Reducción  de costos en medicamentos
+-Reducción de tiempos en análisis y seguimiento de los animales
+-Reducción de la mortalidad de los bovinos en especial en las crías
+-Identificación de patrones de alimentación y conversión en carne
+
+## Comparativa entre procesos
+
+|Aspecto            | Proceso Tradicional    |   Solución con IA     
+|---------------------------------------------------------------------
+|Costo operativo    | Alto                   | Bajo,efeciente
+|Diagnostico        | Lento,General          | Rapido,Personalizado
+|Análisis de datos  | Lento                  | Rapido 
+|Mortalidad         | Media                  | Baja
+|Alimentación       | Estadarizada           | Personalizada
+
+## Reflexión personal
+
+este proceso ayuda a ver que la IA es una gran herramienta de ayuda en todas las áreas que hay y puede ser una gran ayuda si la usamos correctamente aun áreas como la ganadería donde normalmente se hace todo de una manera artesanal la entrada de herramientas soportadas por inteligencia artificial ayudaría a una recopilación de datos y optimización de procesos de esta manera permitiendo mayores ingresos y menor mancha de carbono disminuyendo los desperdicios haciendo uso de la optimización de procesos que nos permite la IA.
+
